@@ -1,16 +1,11 @@
+
 # dort_bloc_ile_listeleme
 
-A new Flutter project.
+Bloc cubit yapisi ve http metotlari ile veritabanindan kisi bilgileri alip listeleme, kisi silme ve ekleme islemleri 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- [Kasim Adalan Udemy Bloc Bubit Kisiler Uygulamasi](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/learn/lecture/24429270#notes)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![kisiler](https://user-images.githubusercontent.com/57287432/126870953-5eccf95e-564f-4eef-8456-d4d55e9971b8.gif)
